@@ -1,0 +1,36 @@
+body{ 
+   
+   text-align: center;
+   justify-content: center;
+   background-color: black;
+  
+   
+}
+
+button{
+   background-color: cyan;
+   font-size: 25px;
+   
+  border-radius: 4px;
+  border-color: cyan;
+  padding: 20px;
+ width: 120px;
+box-shadow: 0 0 5px cyan, 0 0 25px cyan;
+}
+button:hover{ 
+   box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50px cyan, 0 0 100px cyan, 0 0 200px cyan;
+}
+.p{
+   color: mediumspringgreen;
+    box-shadow: 0 0 5px mediumspringgreen, 0 0 25px mediumspringgreen;
+}
+.h{
+   color: cyan;
+   box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50px cyan;
+}
+.p:hover{
+   
+}
+.h:hover{
+   box-shadow: 0 0 5px mediumpurple, 0 0 25px cyan, 0 0 50px cyan, 0 0 100px mediumpurple, 0 0 200px mediumpurple;
+}
